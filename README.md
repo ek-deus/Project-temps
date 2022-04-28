@@ -1,3 +1,3 @@
 # Project-temps
-Project-temps
-Временные, тестовыеб учебные проекты
+
+it's fork https://github.com/AlexBuzin/TeleBotINN
